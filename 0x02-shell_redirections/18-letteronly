@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep ^[[:appha:]] /etc/ssh/sshd_config
+egrep ^[[:appha:]]/etc/ssh/sshd_config
